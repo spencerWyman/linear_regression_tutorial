@@ -11,9 +11,9 @@ For students:
 
 ## What are the different files?
 
-Linear_Regression_Tutorial is a notebook showing how to build a linear regression algorithm using gradient descent from the ground up, including visualizations. It was also meant in part to be an introduction to Jupyter notebooks, matplolib, and numpy, so it contains some cells dedicated to introducing those libraries.
+Linear_Regression_Tutorial: A Jupyter notebook showing how to build a linear regression algorithm using gradient descent from the ground up, including visualizations. It was also meant in part to be an introduction to Jupyter notebooks, matplolib, and numpy, so it contains some cells dedicated to introducing those libraries.
 
-Linear_Regression_Presentation contains a self contained presentation of the animtations and interactive blocks from the tutorial. It does not include very much code, and has many black boxes, but cleanly explains the big idea. It was created to be used as a guide during a lecture, but could be useful to someone interested in seeing the big picture of ML without getting bogged down in the implementation details.
+Linear_Regression_Presentation: A Jupyter notebook that contains a self contained presentation of the animtations and interactive blocks from the tutorial. It does not include very much code, and has many black boxes, but cleanly explains the big idea. It was created to be used as a guide during a lecture, but could be useful to someone interested in seeing the big picture of ML without getting bogged down in the implementation details.
 
 machineLearning.js is a (_not actually functioning!_) universal machine learning problem solver! It solves every problem by generating all possible programs (up to a certain length), then iterating through them all to determine the best program to solve the problem at hand. This code is purely for instructional purposes, it does not run, and cannot solve any actual problems.
 
